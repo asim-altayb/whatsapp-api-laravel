@@ -1,0 +1,14 @@
+<?php
+
+namespace AsimAltayb\WhatsappApiLaravel\Message\Contact;
+
+use MyCLabs\Enum\Enum;
+
+class PhoneType extends Enum
+{
+    private const CELL = 'cell';
+    private const MAIN = 'main';
+    private const IPHONE = 'iphone';
+    private const HOME = 'home';
+    private const WORK = 'work';
+}

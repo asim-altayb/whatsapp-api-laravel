@@ -1,0 +1,35 @@
+{
+    "name": "asim-altayb/whatsapp-api-laravel",
+    "description": "Help You to Deal with whatsapp Api Cloud.",
+    "type": "library",
+    "require": {
+        "php": "^7.4 || ^8.0 || ^8.1",
+        "guzzlehttp/guzzle": "^7.0",
+        "illuminate/support": "^9.36",
+        "myclabs/php-enum": "^1.8",
+        "vlucas/phpdotenv": "^5.4"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
+    "config": {
+        "sort-packages": true,
+        "preferred-install": "dist",
+        "optimize-autoloader": true
+    },
+    "autoload": {
+        "psr-4": {
+            "AsimAltayb\\WhatsappApiLaravel\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "AsimAltayb\\WhatsappApiLaravel\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Asim",
+            "email": "sudoasim@gmail.com"
+        }
+    ]
+}
