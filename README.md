@@ -15,7 +15,7 @@ Please create and configure your Facebook WhatsApp application following the ["G
 Minimum requirements – To run the SDK, your system will require **PHP >= 7.4** with a recent version of **CURL >=7.19.4** compiled with OpenSSL and zlib.
 
 ## Installation
-```composer require AsimAltayb/whatsapp-cloud-api ```
+```composer require asim-altayb/whatsapp-api-laravel ```
 ## Composer Dump to load files
 ```composer dump-autoload ```
 
