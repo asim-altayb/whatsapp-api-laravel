@@ -25,8 +25,6 @@ Minimum requirements – To run the SDK, your system will require **PHP >= 7.4**
 ```php
 <?php
 
-// Require the Composer autoloader.
-require 'vendor/autoload.php';
 
 use AsimAltayb\WhatsAppCloudApi\WhatsAppCloudApi;
 
