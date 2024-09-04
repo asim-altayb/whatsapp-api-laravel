@@ -1,15 +1,16 @@
 {
     "name": "asim-altayb/whatsapp-api-laravel",
+    "version": "1.0.0",
     "description": "Help You to Deal with whatsapp Api Cloud.",
     "type": "library",
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
         "guzzlehttp/guzzle": "^7.0",
-        "illuminate/support": "^6.9|^7.0|^8.0|^9.0",
+        "illuminate/support": "^6.9|^7.0|^8.0|^9.0|^10.0",
         "myclabs/php-enum": "^1.8",
         "vlucas/phpdotenv": "^5.4"
     },
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "prefer-stable": true,
     "config": {
         "sort-packages": true,
