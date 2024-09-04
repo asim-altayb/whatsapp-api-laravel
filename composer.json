@@ -2,6 +2,7 @@
     "name": "asim-altayb/whatsapp-api-laravel",
     "version": "1.0.0",
     "description": "Help You to Deal with whatsapp Api Cloud.",
+    "license": "MIT",
     "type": "library",
     "require": {
         "php": "^7.4 || ^8.0 || ^8.1",
