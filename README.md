@@ -1,4 +1,4 @@
-![](https://github.com/asim-altayb/whatsapp-api-laravel/banner.webp)
+![](https://raw.githubusercontent.com/asim-altayb/whatsapp-api-laravel/main/banner.webp)
 
 
 ## THIS LIBRARY CLONED FROM ["netflie/whatsapp-cloud-api"](https://github.com/netflie/whatsapp-cloud-api) AS NATIVE PHP AND DEVELOPED TO SUPPORT LARAVEL APPLICATIONS
